@@ -18,3 +18,10 @@ The technologies used are:
 - Excel for data collection, storage, and analysis, as well as for creating electronic spreadsheets.
 - VBA for creating scripts to automate certain tasks, such as updating pivot tables.
 - Power BI for data visualization based on databases of hourly reports and leader reports.
+
+Workload:
+Design: ~20h  
+Creating excel sheet for every workplace (82 sheets in total): ~400h  
+Creating excel sheet for every production leader (5 leader): ~120h  
+Implementation and training: ~30h  
+Bugs and issue fixing: ~20h  
