@@ -1,4 +1,4 @@
-# Digital-Hourly-Raports
+# Digital-Hourly-Raports (DONE)
 Digitalization of paper forms to collect and analyze data about outputs and KPI values from line.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 The project was initiated in response to the need to move away from paper-based hourly reports, which were inefficient and required manual analysis by leaders to obtain key performance indicators (KPIs) such as units down, OEE, Pareto chart of time losses, or FPY.
